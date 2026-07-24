@@ -6,7 +6,7 @@ g++/gcc --> makefile --> cmake
 1. 手写 CMakeLists.txt
    ```
     #声明要求的cmake最低版本
-    cmake_minimum_required(VERSION 2.8)
+    cmake_minimum_required(VERSION 3.5)
 
     #声明一个cmake工程
     project(HelloWorld)
