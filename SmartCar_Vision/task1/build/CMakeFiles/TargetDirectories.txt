@@ -1,0 +1,3 @@
+/home/lhc/learning-note/SmartCar_Vision/task1/build/CMakeFiles/otsu_demo.dir
+/home/lhc/learning-note/SmartCar_Vision/task1/build/CMakeFiles/edit_cache.dir
+/home/lhc/learning-note/SmartCar_Vision/task1/build/CMakeFiles/rebuild_cache.dir
