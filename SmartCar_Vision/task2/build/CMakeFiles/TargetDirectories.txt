@@ -1,0 +1,3 @@
+/home/lhc/learning-note/SmartCar_Vision/task2/build/CMakeFiles/track_search.dir
+/home/lhc/learning-note/SmartCar_Vision/task2/build/CMakeFiles/edit_cache.dir
+/home/lhc/learning-note/SmartCar_Vision/task2/build/CMakeFiles/rebuild_cache.dir
